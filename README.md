@@ -1,4 +1,4 @@
-![logo](https://github.com/ChMueedZafar/ChMueedZafar/blob/main/background%20img%20githhub.jpg)
+![logo](https://github.com/ChMueedZafar/ChMueedZafar/blob/main/github%20banner%20img.jpg)
 
 <h1 align="center">Hi 👋, I'm Abdul Mueed Zafar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
